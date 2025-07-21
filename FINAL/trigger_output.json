@@ -1,0 +1,24 @@
+{
+  "user_album": {
+    "captions": [
+      "a man with a hat and glasses is eating a hot dog",
+      "a man playing a guitar on stage with a microphone",
+      "a band playing on stage",
+      "a man playing a guitar under a white cloth",
+      "a man sitting at a table with a laptop",
+      "a man sitting at a desk with a laptop",
+      "a woman in a red dress is singing",
+      "a band playing in a room with red curtains",
+      "a group of people sitting on the grass eating",
+      "two men sitting on a bed",
+      "a man sitting on a bench",
+      "a woman wearing a yellow shirt",
+      "a man and a woman standing in a parking",
+      "a crowd of people standing around a street",
+      "a sign that says america dream real estate",
+      "a large red firework"
+    ],
+    "probability": 0.9901,
+    "label": 1
+  }
+}
