@@ -52,7 +52,7 @@ output_path = os.environ.get("OUTPUT_PATH", os.path.join("FINAL", "trigger_outpu
 threshold = 0.4
 
 word2vec = load_glove(glove_path)
-MODEL_PATH = os.path.join(os.path.dirname(__file__), "glove_trigger_model.pt")
+MODEL_PATH = os.path.join(os.path.dirname(__file__), "glove_trigger_model_finetuned.pt")
 model = GloveTriggerModel()
 model.load_state_dict(torch.load(MODEL_PATH, map_location=torch.device("cpu")))
 model.eval()

@@ -9,29 +9,44 @@ EVENT_TAGS = {
     "birthday": ["birthday", "cake", "candles", "present", "gift", "balloons"],
     "wedding": ["wedding", "bride", "groom", "aisle", "altar", "reception", "vows"],
     "graduation": ["graduation", "gown", "diploma", "cap", "ceremony", "degree"],
-    "sports": ["trophy", "race", "match", "team", "goal", "sports", "field"],
+    "sports": [
+        "sports", "trophy", "match", "goal", "team", "field", "stadium", "score",
+        "football", "soccer", "basketball", "tennis", "cricket", "bat", "ball",
+        "racket", "hoop", "net","badminton","hockey","baseball","volleyball", "pitch", "umpire", "referee", "athlete", "race"
+    ],
     "picnic": ["picnic", "blanket", "basket", "grass", "tree", "sandwich"],
     "festival": ["parade", "festival", "float", "costume", "lantern", "celebration"],
     "travel": ["beach", "mountain", "sunset", "trip", "boat", "vacation"],
-    "pets": ["dog", "puppy", "cat", "kitten", "pet", "pets", "leash", "animal", "fur", "bark", "meow", "playing fetch"],
+    "pets": [
+        "pet", "pets", "dog", "puppy", "cat", "kitten", "rabbit", "bunny", "bird", "parrot", "fish", "goldfish",
+        "aquarium", "leash", "fur", "bark", "meow", "chirp", "purring", "playing fetch", "fins", "claws", "whiskers"
+    ],
     "parade": ["parade", "march", "balloons", "flags", "crowd", "banner", "music", "drum", "cheer"],
     "swimming": ["swimming", "pool", "swim", "float", "goggles", "diving", "splash", "swimsuit"],
-    "seminar_event": ["presentation", "conference", "projector", "screen", "auditorium", "audience", "speaker", "microphone", "stage", "session", "event", "nasa"]
+    "seminar_event": [
+        "presentation", "conference", "projector", "screen", "auditorium",
+        "audience", "speaker", "microphone", "stage", "session", "event", "nasa"
+    ],
+    "lunch": [
+        "lunch", "meal", "food", "dining", "snack", "restaurant", "buffet", "cuisine",
+        "plate", "fork", "spoon", "brunch", "lunchbox", "eating", "kitchen"
+    ]
 }
 
-# Template captions and notifications (no emojis)
+# Template captions and notifications
 TEMPLATES = {
-    "birthday": "Someone’s birthday bash! Want to create a memory?",
+    "birthday": "Someone's birthday bash! Want to create a memory?",
     "wedding": "A beautiful wedding captured! Shall we build your story?",
     "graduation": "Graduation day vibes! Ready to celebrate your journey?",
-    "sports": "Game time moments! Let’s craft your winning memory!",
+    "sports": "Game time moments! Let's craft your winning memory!",
     "picnic": "Picnic memories in the open! Want to share it?",
     "festival": "Celebrating traditions! Let's make this story special!",
     "travel": "Travel diaries look exciting! Want to save the journey?",
-    "pets": "Furry friends captured! Want to relive your pet moments?",
+    "pets": "Furry, feathery, or fishy friends captured! Want to relive those pet moments?",
     "parade": "A colorful parade in action! Ready to capture the joy?",
     "swimming": "Making a splash! Shall we dive into this memory?",
-    "seminar_event": "Professional moments spotted! Shall we turn this session into a story?"
+    "seminar_event": "Professional moments spotted! Shall we turn this session into a story?",
+    "lunch": "Lunchtime vibes! Want to turn this meal into a story?"
 }
 
 # Generic fallbacks
