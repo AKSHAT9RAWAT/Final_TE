@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Trigger App</string>
+    <string name="run_trigger">Run Trigger Detection</string>
+    <string name="trigger_detected">Trigger detected!</string>
+    <string name="no_trigger">No trigger detected.</string>
+</resources> 
