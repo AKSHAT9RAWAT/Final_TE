@@ -11,3 +11,5 @@ dist/
 .DS_Store
 *.bin
 *.safetensors 
+*.pt
+!FINAL/glove_trigger_model_finetuned.pt 

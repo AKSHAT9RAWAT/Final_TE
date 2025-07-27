@@ -1,27 +1,19 @@
 {
   "user_album": {
     "captions": [
-      "a football player running with the ball",
-      "a group of young men playing football on a field",
-      "a football player is running after the ball",
-      "a football game with a referee and referee",
-      "a group of young men playing a game of football",
-      "a football game with a player running for the ball",
-      "a football player is catching a ball",
-      "a young boy in a football uniform on the field",
-      "a football player running with the ball",
-      "a group of young men playing a game of football",
-      "a group of young men playing a game of football",
-      "a football game with a group of players on the field",
-      "a football player is catching the ball",
-      "a football player in a purple and yellow uniform",
-      "a man wearing a purple hat and a purple and yellow cap",
-      "a football player running",
-      "a man wearing a helmet",
-      "a football player catching a ball",
-      "a football player is running with the ball"
+      "a woman with a tooth in her mouth",
+      "a man wearing a hat",
+      "a man in a pool with a frc",
+      "three men standing in front of a house",
+      "a man with a white shirt",
+      "a man and a woman playing basketball in a pool",
+      "a woman and a child playing in a pool",
+      "a man and woman are smiling and holding a bottle",
+      "a man and two women are posing for a picture",
+      "a man and a woman are standing in a room",
+      "a man and woman standing in a kitchen"
     ],
-    "probability": 0.9988,
+    "probability": 1.0,
     "label": 1
   }
 }
